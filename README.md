@@ -8,13 +8,9 @@ Output : Mask highlightening the WBC region.
 Requirements:
 
 python 3.5
-
 anaconda 4.2.0
-
 tensorflow - conda
-
 keras
-
 theano
 
 
